@@ -1,0 +1,3 @@
+[submodule "django-api"]
+	path = django-api
+	url = https://github.com/Aadi61/django-api
